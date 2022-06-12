@@ -1,0 +1,18 @@
+.player-wrapper {
+    height: 40vh;
+}
+
+.audio.player-wrapper {
+    height: 10vh;
+}
+
+.player-wrapper img {
+    object-fit: contain;
+    max-height: 40vh;
+}
+
+.space-between {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}

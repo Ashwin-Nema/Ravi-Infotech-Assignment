@@ -1,0 +1,11 @@
+.selectmedia {
+    margin-right: 1rem !important;
+}
+
+.error-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color:red;
+    font-size:small;
+}
